@@ -8,5 +8,6 @@ public class Main {
         String input= "Hello World";
         input.indexOf(2);
         input= "Hello";
+        System.out.print(34242);
     }
 }
